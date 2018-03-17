@@ -1,0 +1,3 @@
+spark-redis库经过测试可以使用
+大家在编译使用的使用可以和spark和版本和jedis的客户端最好对应上；
+可以从redis直接读取rdd数据，也可以将rdd数据写入到redis里面
